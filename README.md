@@ -1,8 +1,5 @@
 # C# - Nizovi
 
-Potaknuti jednom od nezaboravnih večeri u labu provedenom uz slične mozgalice odlučili smo na početku svakog mjeseca objaviti po jedan zadatak, te jedan dan zadnjeg vikenda u mjesecu odvojiti za zajedničku "offline" analizu i raspravljanje rješenja.
-Jedina pravila su da rješenje radi što bolje i da razumijete kako Vaš program funkcionira. 
-Iznimno, ovaj prvi put, ciljamo se naći zadnji vikend u kolovozu. Spretno!
 Zadan je niz od N cijelih brojeva koji se ne ponavljaju i poredani su u krug.
 Postoji N načina za izabrati uzastopne pod-nizeve brojeva duljine M. Za svaki pod-niz možemo naći K-vrijednost tog podniza. “K” vrijednost je K-ti najmanji broj svakoga pod-nizu.
 Zadatak
